@@ -182,7 +182,4 @@ No installation needed — this project only uses Python's built-in `random` mod
 
 ---
 
-## 👤 Author
-
-**Your Name**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+## sachin mahato
